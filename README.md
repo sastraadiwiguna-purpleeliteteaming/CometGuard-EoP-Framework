@@ -1,3 +1,9 @@
+[![ZENODO_openAIRE_DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18278712.svg)](https://doi.org/10.5281/zenodo.18278712)=[doi.org/10.5281/zenodo.18278712]
+
+[![ORCID](https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X).
+
+
+---
 `markdown
 # Architectural Analysis: Privilege Escalation (EoP)
 ### Technical Research & Red Teaming Framework
@@ -90,5 +96,6 @@ To prevent EoP in agentic systems, the following defensive layers must be implem
 **Framework:** `Red Team / Offensive Security`
 
 ```
+
 
 ```
